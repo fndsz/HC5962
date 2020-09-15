@@ -306,4 +306,4 @@ ramips_setup_interfaces $board
 ramips_setup_macs $board
 board_config_flush
 
-exit 0
+exit 0 
